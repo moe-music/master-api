@@ -1,4 +1,6 @@
-# Discord Bot TypeScript Template - Master API
+# MoE Bot - Master API
 
 
-**API** - A Master API to manage multiple instances of a discord bot spread across machines. Meant to accompany the [Discord Bot TypeScript Template](https://github.com/KevinNovak/Discord-Bot-TypeScript-Template).
+**API** - A Master API to manage multiple instances of a discord bot spread across machines. 
+
+**Cradit** - KevinNovak
