@@ -1,7 +1,7 @@
 {
     "api": {
-        "port": 5000,
-        "secret": "00000000-0000-0000-0000-000000000000"
+        "port": 5001,
+        "secret": "xxxxxx"
     },
     "jobs": {
         "updateClusterCache": {
