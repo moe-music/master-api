@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "my-bot-master-api",
+            "script": "dist/start.js",
+            "node_args": ["--enable-source-maps"],
+            "restart_delay": 10000
+        }
+    ]
+}
